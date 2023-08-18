@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T22:39:33.192Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="o_Mts1hLNNHeKViByvHO" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-18T22:47:31.142Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="1n2l2yhwKA3snVaKg9pK" version="21.6.8" type="github">
   <diagram name="Page-1" id="Dkc9KShbpaWvhL2H0rqo">
-    <mxGraphModel dx="2284" dy="2007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2564" dy="2460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -244,7 +244,7 @@
         <mxCell id="ZM0QrDXeXai4huBHcrrM-58" value="North" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="749" y="15" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZM0QrDXeXai4huBHcrrM-60" value="In-boundary backyad: 1543 sqft" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=17;labelBorderColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="ZM0QrDXeXai4huBHcrrM-60" value="In-boundary backyard: 1543 sqft" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=17;labelBorderColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="248" y="740" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZM0QrDXeXai4huBHcrrM-62" value="In-boundary House area: 3374 sqft" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=17;labelBorderColor=none;dashed=1;" vertex="1" parent="1">
