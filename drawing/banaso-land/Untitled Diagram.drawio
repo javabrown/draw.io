@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T08:13:46.318Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="K1xZn8uvMDBdA9CxnTyi" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T08:23:56.921Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Z87zURQXRng9uAbqxFUA" version="21.6.8" type="github">
   <diagram name="Page-1" id="Dkc9KShbpaWvhL2H0rqo">
     <mxGraphModel dx="1931" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -318,9 +318,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZM0QrDXeXai4huBHcrrM-90" value="&amp;nbsp;भूमि कम है (18-15.80)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontColor=#FF0000;fontSize=15;" vertex="1" connectable="0" parent="ZM0QrDXeXai4huBHcrrM-89">
+        <mxCell id="ZM0QrDXeXai4huBHcrrM-90" value="&amp;nbsp;भूमि 2.20 Dismil कम है&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontColor=#FF0000;fontSize=15;" vertex="1" connectable="0" parent="ZM0QrDXeXai4huBHcrrM-89">
           <mxGeometry x="-0.3484" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZM0QrDXeXai4huBHcrrM-93" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;2.20 dismil (957 sqft)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZM0QrDXeXai4huBHcrrM-89">
