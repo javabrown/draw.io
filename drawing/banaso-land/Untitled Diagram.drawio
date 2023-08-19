@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T05:54:30.968Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="xS1yPIWac91qeu9FFNB3" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T06:22:00.359Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="fT1pMmgS2_VslGXD3fJo" version="21.6.8" type="github">
   <diagram name="Page-1" id="Dkc9KShbpaWvhL2H0rqo">
     <mxGraphModel dx="1931" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZM0QrDXeXai4huBHcrrM-75" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=cross-hatch;fillColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="122" y="919" width="520" height="148" as="geometry" />
+          <mxGeometry x="122" y="919" width="520" height="151" as="geometry" />
         </mxCell>
         <mxCell id="MJouJ_tBEHJUPLvAa8a3-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;strokeWidth=1;strokeColor=default;fontStyle=0;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -332,19 +332,43 @@
           <mxGeometry x="680" y="738" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZM0QrDXeXai4huBHcrrM-154" value="मौजा: Nawada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="10" width="90" height="30" as="geometry" />
+          <mxGeometry x="30" y="8" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZM0QrDXeXai4huBHcrrM-155" value="खाता नम्बर: 127/153" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="10" width="114" height="30" as="geometry" />
+          <mxGeometry x="180" y="8" width="114" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZM0QrDXeXai4huBHcrrM-156" value="रकबा:&amp;nbsp; 18 डीसमील" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="328" y="10" width="90" height="30" as="geometry" />
+          <mxGeometry x="328" y="8" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZM0QrDXeXai4huBHcrrM-157" value="Deed Number: 2631/19.2.86" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="10" width="170" height="30" as="geometry" />
+          <mxGeometry x="460" y="8" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZM0QrDXeXai4huBHcrrM-160" value="As of today 19-August-2019 - वर्तमान स्थिति&amp;nbsp;में भूमि 2.2 डीसमील कम है&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="13" y="37" width="389" height="12" as="geometry" />
+        <mxCell id="ZM0QrDXeXai4huBHcrrM-160" value="&amp;nbsp; &amp;nbsp;(As of today 19-August-2019 - वर्तमान स्थिति में भूमि 2.2 डीसमील कम है, जिसे South direction में Section-4 दर्शाया गया है )" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="29" y="36" width="600" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM0QrDXeXai4huBHcrrM-162" value="20 Feet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="623" y="968" width="50" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM0QrDXeXai4huBHcrrM-167" value="&lt;b&gt;Section-4&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="911" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM0QrDXeXai4huBHcrrM-168" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#330000;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="1069" as="sourcePoint" />
+            <mxPoint x="120" y="922" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="1069" />
+              <mxPoint x="110" y="922" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM0QrDXeXai4huBHcrrM-170" value="20 Feet" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="ZM0QrDXeXai4huBHcrrM-168">
+          <mxGeometry x="0.1497" relative="1" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM0QrDXeXai4huBHcrrM-163" value="40 Feet 6 Inch" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="336" y="1064" width="89" height="11" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
